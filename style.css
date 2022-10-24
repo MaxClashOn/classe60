@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding-top:800px ;
+    text-align: center;
+}
+.profile{
+    border-radius:50% ;
+}
+#Name1{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(rgb(26, 153, 175)0%,rgb(17, 73, 17)100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-size: 80px;
+}
+#name{
+    font-size: 50px;
+    font-family: 'Allison', cursive;
+}
+#nombre1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h2{
+    font-size: 80px;
+}
+#biografia{padding: 50px;font-size: 30px;}
+.parallax-inner{
+    display: table-cell;
+    vertical-align: middle;
+}
+.menu{
+    background: white;
+    width:100% ;
+    margin-top: 0px;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+}
+.links{
+    display:inline ;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+    font-family:Comic ;
+}
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+#textos{
+    text-decoration: overline;
+    color:blue;
+}
+#Contacto{
+    background: rgb(29, 151, 182);
+}
